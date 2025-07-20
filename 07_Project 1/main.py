@@ -14,3 +14,20 @@ print("Project 1")
 #  fllor Divison --  //
 # Modulus --   %
 
+
+# Solution of the Project 
+
+A = 6
+B = 2
+addAnswer = A + B
+print("The answer of A addition B is " ,addAnswer)
+subAnswer = A - B
+print("The answer of A subtraction B is ",subAnswer )
+expoAnswer = A ** B
+print("The answer of A exponential B is ", expoAnswer)
+DivAnswer = (A / B)
+print("The answer of A Divison B is ",DivAnswer )
+floorAnswer = A // B
+print("The answer of A floorDivison B is ", floorAnswer)
+Modulus = A % B
+print("The answer of A Modulus B is ", Modulus)
